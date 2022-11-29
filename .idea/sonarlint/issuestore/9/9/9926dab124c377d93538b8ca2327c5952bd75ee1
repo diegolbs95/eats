@@ -1,0 +1,14 @@
+
+`	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(îÈ–àûÿÿÿÿ
+[
+java:S4684("@Replace this persistent entity with a simple POJO or DTO object.(Ï­Î˜ÿÿÿÿÿ
+[
+java:S46840"@Replace this persistent entity with a simple POJO or DTO object.(™şÇùşÿÿÿÿ
+p
+java:S1128"URemove this unused import 'hungryfood.eats.exception.EntidadeNaoEncontradaException'.(ÛÇê¡ûÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'hungryfood.eats.exceptionHandler.Problema'.(Î™ÿ
+_
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
